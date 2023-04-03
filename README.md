@@ -6,12 +6,38 @@ Este projeto é um aplicativo Kanban que ajuda as equipes a gerenciar suas taref
 
 
 
+## Estrutura do projeto
+```
+kanban-plano/
+  ├── index.html
+  ├── css/
+  │   ├── style.css
+  │   └── responsive.css
+  ├── js/
+  │   ├── main.js
+  │   └── modules/
+  │       ├── modal.js
+  │       └── slider.js
+  └── images/
+      ├── banner.jpg
+      ├── logo.png
+      └── icons/
+          ├── facebook.svg
+          └── twitter.svg
+```
+## Funcionalidades
+- Criar e editar cartões com título, descrição e prazo.
+- Mover cartões entre as colunas "Novo", "Em progresso" e "Concluído".
+- Adicionar comentários e anexos a cartões existentes.
+- Pesquisar cartões por título ou descrição.
+- Editar ou excluir cartões existentes.
+- Responsivo para dispositivos móveis.
 ## Rodando localmente
 
 Clone o projeto
 
 ```bash
-git clone https://github.com/Nero-o/Kanban-plano
+git clone https://github.com/seu-usuario/projeto-kanban.git
 ```
 
 Entre no diretório do projeto
@@ -49,13 +75,6 @@ http://localhost:3000
 - Pesquise por um cartão específico usando a barra de pesquisa na parte superior do aplicativo.
 
 
-## Funcionalidades
-- Criar e editar cartões com título, descrição e prazo.
-- Mover cartões entre as colunas "Novo", "Em progresso" e "Concluído".
-- Adicionar comentários e anexos a cartões existentes.
-- Pesquisar cartões por título ou descrição.
-- Editar ou excluir cartões existentes.
-- Responsivo para dispositivos móveis.
 ## Contribuição
 Para contribuir com o projeto, siga as seguintes etapas:
 
