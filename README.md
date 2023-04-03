@@ -11,7 +11,7 @@ Este projeto é um aplicativo Kanban que ajuda as equipes a gerenciar suas taref
 Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-kanban.git
+git clone https://github.com/Nero-o/Kanban-plano
 ```
 
 Entre no diretório do projeto
