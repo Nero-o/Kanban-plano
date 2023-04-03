@@ -37,7 +37,7 @@ kanban-plano/
 Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-kanban.git
+git clone https://github.com/Nero-o/Kanban-plano
 ```
 
 Entre no diretório do projeto
@@ -45,13 +45,6 @@ Entre no diretório do projeto
 ```bash
 cd projeto-kanban
 ```
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
 Inicie o servidor
 
 ```bash
